@@ -63,6 +63,7 @@
 
 <h3>If you enter the admin username and password that you just created, you should be taken to the admin section of the site:</h3>
 
+
 ![image](https://user-images.githubusercontent.com/51197053/138260956-743a0340-3762-4854-b386-eba7e95d405c.png)
 
   
