@@ -20,3 +20,23 @@
 <h3>You can install pip from the EPEL repositories by typing:</h3><br>
 
 <p style="background-color:aqua">sudo yum install python-pip</p>
+
+<h3>Once you have pip, you can easily install Django globally by typing:</h3><br>
+
+<p style="background-color:aqua">sudo pip install django/p>
+
+  
+<h2>Development Version Install through git</h2><br>
+
+<p style="background-color:aqua">sudo yum install git python-pip/p>
+  
+
+<h2>Creating a Sample Project</h2><br> 
+
+<h3>django-admin startproject projectname</h3>
+<h3>cd projectname</h3><br>
+
+
+  
+
+  
