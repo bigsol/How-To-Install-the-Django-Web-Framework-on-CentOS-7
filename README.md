@@ -2,6 +2,6 @@
 
 Install the EPEL Repository.<br><br>
 
-sudo yum install epel-release.<br>
+<p>sudo yum install epel-release.<p>
 
 <h2>Global Install from Packages</h2>
