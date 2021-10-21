@@ -13,3 +13,10 @@
 <p style="background-color:aqua">django-admin --version</p>
 
 <p style="background-color:aqua">1.11.27</p>
+
+
+<h2>Global Install through pip</h2><br>
+
+<h3>You can install pip from the EPEL repositories by typing:</h3><br>
+
+<p style="background-color:aqua">sudo yum install python-pip</p>
