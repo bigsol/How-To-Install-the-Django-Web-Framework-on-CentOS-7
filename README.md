@@ -1,6 +1,6 @@
 <h2>How To Install the Django Web Framework on CentOS 7</h2>
 
-Install the EPEL Repository.<br><br>
+<h2>Install the EPEL Repository.</h2><br>
 
 <p style="background-color:aqua">sudo yum install epel-release.</p>
 
