@@ -23,7 +23,7 @@
 
 <h3>Once you have pip, you can easily install Django globally by typing:</h3><br>
 
-<p style="background-color:aqua">sudo pip install django/p>
+<p style="background-color:aqua">sudo pip install django</p>
 
   
 <h2>Development Version Install through git</h2><br>
@@ -33,9 +33,27 @@
 
 <h2>Creating a Sample Project</h2><br> 
 
-<h3>django-admin startproject projectname</h3>
-<h3>cd projectname</h3><br>
 
+
+<h3>You can use the django-admin command to create a project:</h3>
+
+<p style="background-color:aqua">django-admin startproject projectname</p>
+<p style="background-color:aqua">cd projectname</p>  
+  
+<h3>To bootstrap the database (this uses SQLite by default) on more recent versions of Django, you can type:</h3>  
+
+<p style="background-color:aqua">python manage.py migrate</p>
+
+<h3>You can create an administrative user by typing:</h3><br>
+
+<p style="background-color:aqua">python manage.py createsuperuser</p>
+
+
+<h3>Once you have a user, you can start up the Django development server to see what a fresh Django project looks like. You should only use this for development purposes. Run:</h3><br>
+
+<p style="background-color:aqua">python manage.py runserver 0.0.0.0:8000</p>
+
+![image](https://user-images.githubusercontent.com/51197053/138260507-b3ed2399-623a-41ec-826f-9ff9d507d323.png)
 
   
 
