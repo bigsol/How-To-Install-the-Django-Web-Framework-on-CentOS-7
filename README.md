@@ -55,6 +55,14 @@
 
 ![image](https://user-images.githubusercontent.com/51197053/138260507-b3ed2399-623a-41ec-826f-9ff9d507d323.png)
 
-  
+<h3>Now, append /admin to the end of your URL to get to the admin login page:</h3>
+
+<p style="background-color:aqua">server_ip_address:8000/admin</p>
+
+![image](https://user-images.githubusercontent.com/51197053/138260780-9af7814f-ecca-4ba6-b720-0e63b37e59f4.png)
+
+<h3>If you enter the admin username and password that you just created, you should be taken to the admin section of the site:</h3>
+
+![image](https://user-images.githubusercontent.com/51197053/138260956-743a0340-3762-4854-b386-eba7e95d405c.png)
 
   
