@@ -6,4 +6,8 @@
 
 <h2>Global Install from Packages</h2><br>
 
-<p style="background-color:aqua">sudo yum install python-django.</p>
+<p style="background-color:aqua">sudo yum install python-django.</p><br>
+
+You can test that the installation was successful by typing:<br<
+
+<p style="background-color:aqua">django-admin --version</p>
