@@ -4,4 +4,6 @@
 
 <p style="background-color:aqua">sudo yum install epel-release.</p>
 
-<h2>Global Install from Packages</h2>
+<h2>Global Install from Packages</h2><br>
+
+<p style="background-color:aqua">sudo yum install python-django.</p>
