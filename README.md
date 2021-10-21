@@ -66,4 +66,7 @@
 
 ![image](https://user-images.githubusercontent.com/51197053/138260956-743a0340-3762-4854-b386-eba7e95d405c.png)
 
-  
+<text>  
+do not forget to add the line 
+ALLOWED_HOSTS = ['*']
+to the file setting</text>
